@@ -1,6 +1,6 @@
 body {
     background: rgb(236, 234, 232);
-    padding: 10px;
+    padding: 1px;
     font-family: arial;
 }
 
@@ -46,8 +46,8 @@ main {
 }
 
 .sidebar {
-    margin-right: 300px;
-    padding: 75px;
+    margin-right: 150px;
+    padding: 20px;
 }
 
 .sidebar-img {
@@ -61,11 +61,15 @@ main {
 
 #interests {
     border: 4px silver ridge;
-    padding: 80px;
+    padding: 60px;
     
 }
 
 h2,
 h3 {
+    margin: 0px;
+}
+
+h6{
     margin: 0px;
 }
