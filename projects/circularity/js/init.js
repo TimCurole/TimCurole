@@ -77,7 +77,7 @@ var init = function (window) {
                 circle.y = 0
             }
             if (circle.y < 0){
-                circle.y = 700
+                circle.y = canvas.height
             }
 
 
